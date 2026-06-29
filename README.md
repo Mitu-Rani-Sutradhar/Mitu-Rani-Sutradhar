@@ -6,14 +6,59 @@ I am a passionate Full Stack Web Developer specializing in building user-friendl
 
 ---
 
-### 🧰 Tech Stack & Tools
+---
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| **Backend & DB** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+## 🛠️ Tech Stack
 
+### 🧠 Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,firebase" />
+</p>
+
+---
+
+
+
+
+## 🚀 Deployment & Tools
+<p align="left">
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="tools" />
+
+  <!-- Deployment -->
+  <a href="https://vercel.com" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  </a>
+
+  <a href="https://firebase.google.com/products/hosting" target="_blank">
+    <img src="https://img.shields.io/badge/Firebase%20Hosting-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Hosting"/>
+  </a>
+
+  <a href="https://www.netlify.com" target="_blank">
+    <img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+  </a>
+
+</p>
+
+---
+
+
+<p align="left">
+
+  <a href="golapraj47@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.facebook.com/g.lap.raj" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/md-tahmid-hasan-golap" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+</p>
 ---
 
 ### 🌱 What I'm Up To
