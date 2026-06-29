@@ -1,4 +1,4 @@
-![logo](https://github.com/Mitu-Rani-Sutradhar/Mitu-Rani-Sutradhar/blob/main/github%20Banner.png)
+![logo](https://github.com/Mitu-Rani-Sutradhar/Mitu-Rani-Sutradhar/blob/main/Neutral%20Modern%20Web%20Developer%20LinkedIn%20Banner%20(1).png)
 # Hi there, I'm Mitu Rani Sutradhar 👋
 
 ### 🚀 Full Stack Web Developer
