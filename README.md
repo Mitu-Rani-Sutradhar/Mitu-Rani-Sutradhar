@@ -12,7 +12,7 @@ I am a passionate Full Stack Web Developer specializing in building user-friendl
 
 ### 🧠 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,express,mongodb,firebase" />
 </p>
 
 ---
